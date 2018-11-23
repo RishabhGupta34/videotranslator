@@ -33,3 +33,4 @@ virtualenv==16.1.0
 Werkzeug==0.14.1
 youtube-dl==2018.11.23
 ffprobe
+avprobe
