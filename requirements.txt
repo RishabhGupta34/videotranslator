@@ -11,7 +11,6 @@ idna==2.7
 importlib-metadata==0.6
 importlib-resources==1.0.2
 itsdangerous==1.1.0
-ffmpeg-python==0.1
 Jinja2==2.10
 lxml==4.2.5
 MarkupSafe==1.1.0
