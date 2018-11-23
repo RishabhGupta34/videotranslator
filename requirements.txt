@@ -117,6 +117,7 @@ pytest==3.7.1
 python-dateutil==2.6.1
 python-engineio==2.2.0
 python-socketio==2.0.0
+python3-xlib==0.15
 pytube==9.1.0
 PyTweening==1.0.3
 pytz==2017.3
