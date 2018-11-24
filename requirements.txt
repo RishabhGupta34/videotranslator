@@ -1,4 +1,4 @@
-https://github.com/FFmpeg/fateserver
+https://github.com/pupil-labs/PyAV
 gunicorn==19.7.1
 aspy.yaml==1.1.1
 cached-property==1.5.1
@@ -35,4 +35,3 @@ urllib3==1.24.1
 virtualenv==16.1.0
 Werkzeug==0.14.1
 youtube-dl==2018.11.23
-av
