@@ -1,4 +1,4 @@
-https://github.com/FFmpeg/FFmpeg
+https://github.com/FFmpeg/fateserver
 gunicorn==19.7.1
 aspy.yaml==1.1.1
 cached-property==1.5.1
