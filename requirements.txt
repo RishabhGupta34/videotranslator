@@ -1,3 +1,4 @@
+https://git.ffmpeg.org/ffmpeg.git
 gunicorn==19.7.1
 aspy.yaml==1.1.1
 cached-property==1.5.1
