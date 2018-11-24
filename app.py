@@ -11,7 +11,7 @@ from pydub import AudioSegment
 import youtube_dl
 from pydub import AudioSegment
 from pydub.silence import split_on_silence
-
+os.system("apt-get install -y libav-tools")
 to_lang = 'hi'
 #secret = '<your secret from Microsoft>'
 translator = Translator(to_lang=to_lang)
